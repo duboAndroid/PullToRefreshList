@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\PullToRefreshList\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\PullToRefreshList\\pullToRefreshViewPager\\build\\intermediates\\exploded-aar\\PullToRefreshList\\PullToRefresh_library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\PullToRefreshList\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\PullToRefreshList\\pullToRefreshViewPager\\build\\intermediates\\exploded-aar\\PullToRefreshList\\PullToRefresh_library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]
